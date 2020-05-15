@@ -1,0 +1,101 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+*,
+:after,
+:before {
+  box-sizing: inherit;
+}
+
+body{ margin: 0;}
+
+h3{
+	color: #ffff;
+}
+
+.linguagens{
+     margin-bottom:0;
+}
+
+.logos{
+     margin-bottom: 10px;
+}
+
+.logos img{
+     margin-right: 10px;
+}
+
+.container {
+  background-color: #F2E205;
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(1%,#060042),color-stop(108%,#F2E205));
+    background-image: linear-gradient(#390055 1%,#F2E205 108%);
+    color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  
+  max-width: 100%;
+  min-height: 100vh;
+  height: auto;
+  letter-spacing: 0.1em;
+}
+
+.logo {
+  width: 200px;
+}
+
+h2 {
+  color: #024873;
+}
+
+.links__item {
+  display: block;
+  max-width: 550px;
+  margin: 0 auto 15px;
+  margin-bottom: 5px;
+  padding: 5px 5px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  color: black;
+}
+
+.links__item .links__item--alumni:hover {
+  background-color: #fff;
+}
+
+.links__item .links__item--upcoming:hover {
+  background-color: #fff;
+}
+
+.links__item .links__item--promo:hover {
+  background-color: #fff;
+}
+
+.links__item .links__item--past-event:hover {
+  background-color: #fff;
+}
+
+.links__item .links__item--featured:hover {
+  background-color: #fff;
+}
+
+.links__item .links__item--product:hover {
+  background-color: #fff;
+}
+
+.links__item .links__item--blog:hover {
+  background-color: #fff;
+}
+
+
+.links__item .links__item--featured {
+
+  border-radius: 25px;
+  border: 2px solid #ffff;
+  background-color: linear-gradient(#390055 1%,#F2E205 108%);
+
+}
+
