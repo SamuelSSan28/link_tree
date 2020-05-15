@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/link_tree/static/css/main.5f361e03.chunk.css",
-    "main.js": "/link_tree/static/js/main.24a2c727.chunk.js",
-    "main.js.map": "/link_tree/static/js/main.24a2c727.chunk.js.map",
+    "main.css": "/link_tree/static/css/main.c8d421ca.chunk.css",
+    "main.js": "/link_tree/static/js/main.a5568130.chunk.js",
+    "main.js.map": "/link_tree/static/js/main.a5568130.chunk.js.map",
     "runtime-main.js": "/link_tree/static/js/runtime-main.7f1aa273.js",
     "runtime-main.js.map": "/link_tree/static/js/runtime-main.7f1aa273.js.map",
-    "static/js/2.7fd433b8.chunk.js": "/link_tree/static/js/2.7fd433b8.chunk.js",
-    "static/js/2.7fd433b8.chunk.js.map": "/link_tree/static/js/2.7fd433b8.chunk.js.map",
+    "static/js/2.d170e48c.chunk.js": "/link_tree/static/js/2.d170e48c.chunk.js",
+    "static/js/2.d170e48c.chunk.js.map": "/link_tree/static/js/2.d170e48c.chunk.js.map",
     "index.html": "/link_tree/index.html",
-    "precache-manifest.39de344c439040eb26b72d859fc80898.js": "/link_tree/precache-manifest.39de344c439040eb26b72d859fc80898.js",
+    "precache-manifest.bf2ce091cfa2186aa5a24b2fc084fa89.js": "/link_tree/precache-manifest.bf2ce091cfa2186aa5a24b2fc084fa89.js",
     "service-worker.js": "/link_tree/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/link_tree/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7fd433b8.chunk.js.LICENSE.txt": "/link_tree/static/js/2.7fd433b8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/link_tree/static/media/logo.5d5d9eef.svg"
+    "static/css/main.c8d421ca.chunk.css.map": "/link_tree/static/css/main.c8d421ca.chunk.css.map",
+    "static/js/2.d170e48c.chunk.js.LICENSE.txt": "/link_tree/static/js/2.d170e48c.chunk.js.LICENSE.txt",
+    "static/media/csharp1.png": "/link_tree/static/media/csharp1.4c42e9c6.png",
+    "static/media/foto_perfil.png": "/link_tree/static/media/foto_perfil.ead98515.png",
+    "static/media/gmail2.png": "/link_tree/static/media/gmail2.290e8305.png",
+    "static/media/nodeJs.png": "/link_tree/static/media/nodeJs.85458a67.png",
+    "static/media/python.png": "/link_tree/static/media/python.b9bbb1d7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7f1aa273.js",
-    "static/js/2.7fd433b8.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.24a2c727.chunk.js"
+    "static/js/2.d170e48c.chunk.js",
+    "static/css/main.c8d421ca.chunk.css",
+    "static/js/main.a5568130.chunk.js"
   ]
 }
